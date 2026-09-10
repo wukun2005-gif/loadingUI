@@ -2,3 +2,7 @@
 doc/3997-1.html
 doc/3997-2.html
 doc/3997-3.html
+node_modules/
+dist/
+tsconfig.tsbuildinfo
+.workbuddy/
