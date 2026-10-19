@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎬 完整演示视频：<a href="https://www.bilibili.com/video/BV1T6YM69ESM/">B 站 · Synthesis 思考态 17 步一键演示</a>
+  🎬 完整演示视频：<a href="https://www.bilibili.com/video/BV1n3nE6gEk3/">B 站 · Synthesis 思考态 17 步一键演示</a>
 </p>
 
 把 AI 长耗时「等待」重构为一段**有结构、可参与、可控制**的「思考态」体验的前端 MVP Demo：用户不再面对一个转圈，而是能看到 AI 在想什么、用了哪些材料，并随时介入或中断。React 18 + TypeScript + Vite 实现，SSE 事件流由 Vite dev server 本地 mock，无需后端。设计依据见 [prd.html 在线预览](https://wukun2005-gif.github.io/loadingUI/prd.html)，工程落地计划见 [dev-plan.md](./dev-plan.md)。
